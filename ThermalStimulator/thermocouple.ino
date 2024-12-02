@@ -8,7 +8,7 @@
 //LCD config
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>    //If you don't have the LiquidCrystal_I2C library, download it and install it
-LiquidCrystal_I2C lcd(0x3f,20,4);  //sometimes the adress is not 0x3f. Change to 0x27 if it dosn't work.
+LiquidCrystal_I2C lcd(0x3f,20,4);  //sometimes the adress is not 0x3f. Change to 0x27 if it doesn't work.
 
 /*    i2c LCD Module  ==>   Arduino
  *    SCL             ==>     A5
