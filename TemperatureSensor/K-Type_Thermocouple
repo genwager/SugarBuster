@@ -1,6 +1,6 @@
 // this example is public domain. enjoy! https://learn.adafruit.com/thermocouple/
 
-#include "max6675.h"
+# download the "max6675.h" library if you do not have it already
 
 int thermoDO = 4;
 int thermoCS = 5;
