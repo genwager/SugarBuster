@@ -1,6 +1,14 @@
-# Project Title
+# Sugar Buster
 
-Simple overview of use/purpose.
+As of 2021, 38.4 million people in the United States had a diabetes diagnosis [1]. 
+
+For patients with diabetes, sugar cravings can appear when 
+1) blood glucose is too low,
+2) too high, or 
+3) for no apparent reason. 
+
+The incidence of diabetes is increasing at an alarming rate in the United States [1]. The goal of this project is create a therapeutic device to relieve sugar cravings in the moment and reduce symptoms of diabetes. 
+
 
 ## Description
 
