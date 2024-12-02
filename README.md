@@ -7,7 +7,7 @@ For patients with diabetes, sugar cravings can appear when
 2) too high, or 
 3) for no apparent reason. 
 
-The incidence of diabetes is increasing at an alarming rate in the United States [1]. The goal of this project is create a therapeutic device to relieve sugar cravings in the moment and reduce symptoms of diabetes. 
+The incidence of diabetes is increasing at an alarming rate in the United States [1]. The goal of this project is create a therapeutic device to relieve sugar cravings in the moment and reduces the symptoms of diabetes. 
 
 
 ## Description
